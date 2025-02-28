@@ -71,21 +71,24 @@ Areas where waterfall mothodology can be effective:
    example:- a government funded launch satelite project.
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Methods for ensuring quality assurance
+- Automated and Manual testing
+  include testing like unit, integration, regression and user acceptance testing.
+- Requirement analysis and documentation
+  Make sure you define clear, measurable and testable requirements. for documentation make sure you maintain a well-structured documentation for consistency.
+- Continous integration and continous deployment
+  automate builds, tests and deployment for consistency. catch issues early by integrating code frequently.
+- Bug tracking and issue management
+  maintain a systematic approach to track, prioritize and fix defects by using tools like Jira, Trello.
+- performance and security testing
+  performance testing enures the system can handle unexpected traffic and also identifies vulnerabilities before release.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Importance for maintaining high standards
+1) Better user experiend by ensures that the software is intuitive, responsive and error free.
+2) Cost savings whereby fixing issues early is important than after deployment.
+3) Stronger security where sensitive data is protected and prevention of vulnerabilities.
+4) Improved reliability and credibity where there is reduction in crashes, failures and unexpected behaviour.
+5) Enhanced reputation and customer trust due to high-quality software.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
